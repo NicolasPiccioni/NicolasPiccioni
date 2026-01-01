@@ -1,5 +1,9 @@
+<!-- Banner -->
 ![Banner](Assets/BannerGithub.png)
 
+<!-- More Links-->
+
+<!-- Default Text & Comments --> 
 ## Hi there 👋
 
 <!--
