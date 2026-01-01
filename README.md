@@ -1,5 +1,5 @@
 <!-- TypeWriter Effect -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=272727&size=36&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+Github)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9caca&size=36&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+Github)
 <hr> 
 
 <!-- Banner -->
