@@ -1,7 +1,6 @@
 <!-- TypeWriter Effect -->
-<h1>
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a60064&size=35&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+Github)
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=272727&size=35&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+Github)
+<hr> 
 
 <!-- Banner -->
 ![Banner](Assets/Banner_Github.png)
