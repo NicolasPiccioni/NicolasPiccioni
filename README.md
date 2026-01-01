@@ -1,7 +1,10 @@
+<!-- TypeWriter Effect -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a60064&size=35&center=true&vCenter=true&width=1000&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+Github)
+
 <!-- Banner -->
 ![Banner](Assets/Banner_Github.png)
 
-<!-- More Links-->
+<!-- Social Medias Links -->
 
 <!-- Default Text & Comments --> 
 ## Hi there 👋
