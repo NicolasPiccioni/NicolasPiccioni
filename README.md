@@ -1,4 +1,4 @@
-![Banner](Assets/BannerGithub.png)
+![Banner](Assets/Banner_Github.png)
 
 ## Hi there 👋
 
