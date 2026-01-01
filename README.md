@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](Assets/BannerGithub.png)
+![Banner](Assets/Banner_Github.png)
 
 <!-- More Links-->
 
