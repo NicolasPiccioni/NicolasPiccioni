@@ -110,6 +110,8 @@
 <img width="8">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
 
+[![GitHub Streak](https://github-readme-streak-stats-mu-flame.vercel.app?user=NicolasPiccioni&theme=blueberry&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
 
 </div>
