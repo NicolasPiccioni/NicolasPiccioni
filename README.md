@@ -28,7 +28,50 @@
 
 <!-- **************************************************** LANGUAGES AND TOOLS SECTION **************************************************** -->
 
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Lenguajes y Herramientas
 
+<br>
+
+<table>
+    <tr> <!-- Backend -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cs,net,cpp,java"/></td>
+    </tr>
+    <tr> <!-- Fronted -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma"/></td>
+    </tr>
+    <tr> <!-- DataBases -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de Datos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite"/></td>
+    </tr>
+    <!--
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+    </tr>
+    -->
+    <tr> <!-- Version Control -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Controlador de Versiones:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr> <!-- Ides -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime"/></td>
+    </tr>
+    <tr> <!-- Other Tools -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,obsidian,notion"/></td>
+    </tr>
+    <tr> <!-- Operating Systems -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Sistemas Operativos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+    </tr>
+</table>
 
 <!-- **************************************************** LANGUAGES AND TOOLS SECTION END **************************************************** -->
 
