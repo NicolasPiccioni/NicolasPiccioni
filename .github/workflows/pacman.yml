@@ -22,6 +22,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: NicolasPiccioni
+          color_background: "transparent"
+          color_walls: "#c9caca"
 
 
       - name: push pacman-contribution-graph.svg to the output branch
