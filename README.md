@@ -38,8 +38,8 @@
 📚 Formación universitaria enfocada en fundamentos de la programación.
 🧠 Interesado en Desarrollo Backend, con foco en comprender cómo funcionan los sistemas por dentro
 🌟 Lenguajes Principales: HTML, CSS, C# (.NET).
-🌱 En constante mejora siguiendo la filosofía Kaizen, reforzando hábitos, disciplina y aprendizaje profundo.
-🚀 Busco comprender la tecnología a fondo y convertir el conocimiento en soluciones reales y bien pensadas
+🌱 En constante mejora siguiendo la filosofía Kaizen.
+🚀 Busco comprender la tecnología a fondo y convertir el conocimiento en soluciones reales.
 ♟️ En mi tiempo libre disfruto leer, jugar ajedrez, hacer deporte y escuchar música.
 </pre>
 
