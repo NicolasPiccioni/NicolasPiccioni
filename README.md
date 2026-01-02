@@ -22,7 +22,9 @@
 
 <!-- **************************************************** ABOUT ME SECTION **************************************************** -->
 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3emJmMzMxMDIzamk4MWIzdXprYTFubHYwbW5tMXhlYTBxbGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width = 48px>Acerca de Mí
 
+<br>
 
 <!-- **************************************************** ABOUT ME SECTION END **************************************************** -->
 
@@ -81,8 +83,12 @@
 
 <!-- **************************************************** GITHUB GRAPHICS SECTION END **************************************************** -->
 
+<!-- **************************************************** CONTACT ME SECTION **************************************************** -->
+
+
+<!-- **************************************************** CONTACT ME SECTION END **************************************************** -->
+
 <!-- Default Text & Comments --> 
-## Hi there 👋
 
 <!--
 **NicolasPiccioni/NicolasPiccioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
