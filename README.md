@@ -103,11 +103,15 @@
 <br>
 
 <!-- Apis Stats -->
-  <!-- Themes: blueberry -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry) <img width=8> ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
-
+  <!-- Themes: blueberry, city_lights -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry)
+<img width="8">
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
+
 </div>
 
 <!-- **************************************************** GITHUB GRAPHICS SECTION END **************************************************** -->
