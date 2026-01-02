@@ -24,6 +24,25 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3emJmMzMxMDIzamk4MWIzdXprYTFubHYwbW5tMXhlYTBxbGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width = 48px>Acerca de Mí
 
+<img>
+
+<img
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN5YjUzdW8zYXkzNm1pNjRwbGFjeXJqcmd2cGxua2dwazhqaXdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+  width="170"
+  align="right"
+  alt="gif"
+/>
+
+<pre>
+💻 I am developing my skills as a Frontend Developer | Enthusiastic about new technologies
+📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
+📝 I have a strong interest in building Frontend UIs for ML applications
+🔭 Working on Shopify Themes and React websites using Gatsby.js
+🌱 Focusing on Learning about customer needs and making their lives easier
+🌟 Main languages: Javascript, Python
+🚩 Interested in Full Stack Machine Learning Application development
+</pre>
+
 <br>
 
 <!-- **************************************************** ABOUT ME SECTION END **************************************************** -->
