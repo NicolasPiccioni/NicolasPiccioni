@@ -104,6 +104,12 @@
 
 <!-- **************************************************** CONTACT ME SECTION **************************************************** -->
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/output/pacman-contribution-graph.svg"
+    alt="Pacman eating my commits"
+  />
+</p>
 
 <!-- **************************************************** CONTACT ME SECTION END **************************************************** -->
 
