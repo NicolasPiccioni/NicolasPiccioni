@@ -11,7 +11,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=gitea&logoColor=white&logoSize=auto" alt="LinkedIn Badge" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto" alt="Portfolio Badge" />
+  </a>
+  <a href="https://open.spotify.com/user/31wx466it64ymkdtqyyjhl7r35qy?si=ae6d1f3b6bd0457b" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-111?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto" alt="Spotify Badge" />
   </a>
 </p>
 
