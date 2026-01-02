@@ -100,15 +100,22 @@
 
 ## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> Estadísticas
 
+<br>
+
 <!-- **************************************************** GITHUB GRAPHICS SECTION END **************************************************** -->
 
 <!-- **************************************************** CONTACT ME SECTION **************************************************** -->
 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdqaXU0NXpjMXd4ZmJ1NWtkZHRuejhwYTdtbjQ0c2tmZmxtYmppZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/32aMPyDXICPyxjhTWz/giphy.gif" width = 30px> Contactame
+
+<!-- Contact Links -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/output/pacman-contribution-graph.svg"
-    alt="Pacman eating my commits"
-  />
+  <a href="mailto:nicolas_piccioni@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=minutemailer&logoColor=white&logoSize=auto" alt="LinkedIn Badge"/></a>
+</p>
+
+<!-- Pacman Eating Commits -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/output/pacman-contribution-graph-dark.svg" width="900" />
 </p>
 
 <!-- **************************************************** CONTACT ME SECTION END **************************************************** -->
