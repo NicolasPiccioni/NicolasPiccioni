@@ -1,7 +1,7 @@
 <!-- **************************************************** INITIAL SECTION **************************************************** -->
 
 <!-- TypeWriter Effect -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9caca&size=36&center=true&vCenter=true&width=1000&height=33&lines=Hola,+Soy+Nicolás+Piccioni;Bienvenidos+a+mi+GitHub)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=499&color=C9CACA&background=FFD22800&center=true&vCenter=true&width=1000&height=35&lines=Hola%2C+Soy+Nicol%C3%A1s+Piccioni;Bienvenidos+a+mi+GitHub)](https://git.io/typing-svg)
 <hr> 
 
 <!-- Banner -->
@@ -101,6 +101,14 @@
 ## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> Estadísticas
 
 <br>
+
+<!-- Apis Stats -->
+  <!-- Themes: blueberry -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry) <img width=8> ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 <!-- **************************************************** GITHUB GRAPHICS SECTION END **************************************************** -->
 
