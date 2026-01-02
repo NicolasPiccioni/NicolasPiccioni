@@ -28,19 +28,19 @@
 
 <img
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN5YjUzdW8zYXkzNm1pNjRwbGFjeXJqcmd2cGxua2dwazhqaXdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-  width="155"
+  width="154"
   align="right"
   alt="gif"
 />
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthusiastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend UIs for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Desarrollador en formación con fuerte interés en programación, tecnología y pensamiento lógico.
+📚 Formación universitaria enfocada en fundamentos de la programación.
+🧠 Interesado en Desarrollo Backend, con foco en comprender cómo funcionan los sistemas por dentro
+🌟 Lenguajes Principales: HTML, CSS, C# (.NET).
+🌱 En constante mejora siguiendo la filosofía Kaizen, reforzando hábitos, disciplina y aprendizaje profundo.
+🚀 Busco comprender la tecnología a fondo y convertir el conocimiento en soluciones reales y bien pensadas
+♟️ En mi tiempo libre disfruto leer, jugar ajedrez, hacer deporte y escuchar música.
 </pre>
 
 <br>
