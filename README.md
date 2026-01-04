@@ -43,6 +43,38 @@
 ♟️ En mi tiempo libre disfruto leer, jugar ajedrez, hacer deporte y escuchar música.
 </pre>
 
+<!-- Carreers -->
+
+<div align="center">
+  <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg4ejI5emZyd3lmdjA5c28xZTR2ZDR0dnZ3aHlhYmozenJ1cnRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3pllKSqcMcMxfk08WJ/giphy.gif" width="48"> Estudios</h3>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center" width="200">
+        <img src="LOGO_1" width="60"><br><br>
+        <strong>Técnico en Programación</strong><br>
+        Instituto X<br>
+        <sub>2023 – 2025</sub>
+      </td>
+      <td width="40"></td>
+      <td align="center" width="200">
+        <img src="LOGO_2" width="60"><br><br>
+        <strong>C# .NET</strong><br>
+        Curso Online<br>
+        <sub>2024</sub>
+      </td>
+      <td width="40"></td>
+      <td align="center" width="200">
+        <img src="LOGO_3" width="60"><br><br>
+        <strong>SQL & Bases de Datos</strong><br>
+        Curso Online<br>
+        <sub>2024</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+  
 <br>
 
 <!-- **************************************************** ABOUT ME SECTION END **************************************************** -->
