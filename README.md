@@ -149,6 +149,8 @@
     </tr>
 </table>
 
+<br> <!-- Line Jump -->
+
 <!-- =====================================================
 =                 GITHUB STATS SECTION                  =
 ===================================================== -->
@@ -171,6 +173,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
 
 </div>
+
+<br> <!-- Line Jump -->
 
 <!-- =====================================================
 =                  CONTACT SECTION                      =
