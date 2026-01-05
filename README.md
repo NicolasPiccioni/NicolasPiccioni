@@ -1,30 +1,48 @@
-<!-- **************************************************** INITIAL SECTION **************************************************** -->
+<!-- =====================================================
+=                    INITIAL SECTION                    =
+===================================================== -->
 
 <!-- TypeWriter Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=499&color=C9CACA&background=FFD22800&center=true&vCenter=true&width=1000&height=35&lines=Hola%2C+Soy+Nicol%C3%A1s+Piccioni;Bienvenidos+a+mi+GitHub)](https://git.io/typing-svg)
-<hr> 
+
+<hr> <!-- Divisor -->
 
 <!-- Banner -->
 ![Banner](Assets/Banner_Github.png)
 
 <!-- Social Medias Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nico-piccioni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=gitea&logoColor=white&logoSize=auto" alt="LinkedIn Badge"/></a>
+  <a 
+    href="https://www.linkedin.com/in/nico-piccioni" 
+    target="_blank"><img 
+                      src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=gitea&logoColor=white&logoSize=auto" 
+                      alt="LinkedIn Badge"/></a>
   &nbsp; <!-- Space -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto" alt="Portfolio Badge" /></a>
+  <a 
+    href="#" 
+    target="_blank"><img 
+                      src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto" 
+                      alt="Portfolio Badge"/></a>
   &nbsp; <!-- Space -->
-  <a href="https://open.spotify.com/user/31wx466it64ymkdtqyyjhl7r35qy?si=ae6d1f3b6bd0457b" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-111?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto" alt="Spotify Badge" />
-  </a>
+  <a 
+    href="https://open.spotify.com/user/31wx466it64ymkdtqyyjhl7r35qy?si=ae6d1f3b6bd0457b" 
+    target="_blank"><img 
+                      src="https://img.shields.io/badge/Spotify-111?style=for-the-badge&logo=spotify&logoColor=white&logoSize=auto" 
+                      alt="Spotify Badge"/></a>
 </p>
 
-<!-- **************************************************** INITIAL SECTION END **************************************************** -->
+<!-- =====================================================
+=                    ABOUT ME SECTION                  =
+===================================================== -->
 
-<!-- **************************************************** ABOUT ME SECTION **************************************************** -->
+<!-- About Me Title -->
+<h2>
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3emJmMzMxMDIzamk4MWIzdXprYTFubHYwbW5tMXhlYTBxbGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif"
+    width="48px">Acerca de Mí
+</h2>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3emJmMzMxMDIzamk4MWIzdXprYTFubHYwbW5tMXhlYTBxbGJyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width = 48px>Acerca de Mí
-
-<img>
+<img> <!-- Distance -->
 
 <img
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN5YjUzdW8zYXkzNm1pNjRwbGFjeXJqcmd2cGxua2dwazhqaXdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
@@ -33,6 +51,7 @@
   alt="gif"
 />
 
+<!-- Info About Me -->
 <pre>
 💻 Desarrollador en formación con fuerte interés en programación, tecnología y pensamiento lógico.
 📚 Formación universitaria enfocada en fundamentos de la programación.
@@ -44,25 +63,29 @@
 </pre>
 
 <!-- Carreers -->
-
 <div align="center">
-  <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VjbGo1ajlsY3ZmbHFnMHpiYXZhZWt2OHdmYXllZ2ZvNjFld202dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" width="48"> Estudios</h3>
-  <br>
+  <h3><img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VjbGo1ajlsY3ZmbHFnMHpiYXZhZWt2OHdmYXllZ2ZvNjFld202dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" 
+    width="48"> Estudios
+  </h3>
+  
+  <br> <!-- Line Jump -->
+  
   <table align="center">
     <tr>
       <td align="center" width="320">
         <strong>Técnico en Programación</strong>
-        <br><br>
+        <br><br> <!-- Double Line Jump -->
         <img src="Assets/Logo-UTN.png" width="120">
-        <br>
+        <br> <!-- Line Jump -->
         Universidad Tecnológica Nacional<br>
         <sub>2023 – 2026</sub>
       </td>
       <td align="center" width="320">
         <strong>Ingeniero en Informática</strong>
-        <br><br>
+        <br><br> <!-- Double Line Jump -->
         <img src="Assets/Logo-UBA.jpg" width="120">
-        <br>
+        <br> <!-- Line Jump -->
         Universidad de Buenos Aires<br>
         <sub>2026 - 2030</sub>
       </td>
@@ -71,16 +94,20 @@
 
 </div>
   
-<br>
+<br> <!-- Line Jump -->
 
-<!-- **************************************************** ABOUT ME SECTION END **************************************************** -->
+<!-- =====================================================
+=              LANGUAGES AND TOOLS SECTION              =
+===================================================== -->
 
-<!-- **************************************************** LANGUAGES AND TOOLS SECTION **************************************************** -->
+<!-- Languages and Tools Title -->
+<h2>
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Lenguajes y Herramientas
+</h2>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Lenguajes y Herramientas
+<br> <!-- Line Jump -->
 
-<br>
-
+<!-- Table of Languages-->
 <table>
     <tr> <!-- Backend -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -122,57 +149,48 @@
     </tr>
 </table>
 
-<!-- **************************************************** LANGUAGES AND TOOLS SECTION END **************************************************** -->
+<!-- =====================================================
+=                 GITHUB STATS SECTION                  =
+===================================================== -->
 
-<!-- **************************************************** GITHUB GRAPHICS SECTION **************************************************** -->
+<!-- GitHub Stats Title -->
+<h2>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> Estadísticas
+</h2>
 
-## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> Estadísticas
-
-<br>
+<br> <!-- Line Jump -->
 
 <!-- Apis Stats -->
   <!-- Themes: blueberry, city_lights -->
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry)
-<img width="8">
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry)
+  <img width="8">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
 
 </div>
 
-<!-- **************************************************** GITHUB GRAPHICS SECTION END **************************************************** -->
+<!-- =====================================================
+=                  CONTACT SECTION                      =
+===================================================== -->
 
-<!-- **************************************************** CONTACT ME SECTION **************************************************** -->
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdqaXU0NXpjMXd4ZmJ1NWtkZHRuejhwYTdtbjQ0c2tmZmxtYmppZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/32aMPyDXICPyxjhTWz/giphy.gif" width = 30px> Contactame
+<!-- Contact Title -->
+<h2>
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdqaXU0NXpjMXd4ZmJ1NWtkZHRuejhwYTdtbjQ0c2tmZmxtYmppZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/32aMPyDXICPyxjhTWz/giphy.gif" 
+    width="30px"/> Contactame
+</h2>
 
 <!-- Contact Links -->
 <p align="center">
-  <a href="mailto:nicolas_piccioni@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=minutemailer&logoColor=white&logoSize=auto" alt="LinkedIn Badge"/></a>
+  <a href="mailto:nicolas_piccioni@hotmail.com" target="_blank"><img 
+                                                                  src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=minutemailer&logoColor=white&logoSize=auto" 
+                                                                  alt="LinkedIn Badge"/></a>
 </p>
 
 <!-- Pacman Eating Commits -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/output/pacman-contribution-graph-dark.svg" width="900" />
+    <img src="https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/output/pacman-contribution-graph-dark.svg" width="900"/>
 </p>
-
-<!-- **************************************************** CONTACT ME SECTION END **************************************************** -->
-
-<!-- Default Text & Comments --> 
-
-<!--
-**NicolasPiccioni/NicolasPiccioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
