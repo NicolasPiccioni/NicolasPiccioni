@@ -166,9 +166,9 @@
   <!-- Themes: blueberry, city_lights -->
 <div align="center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasPiccioni&theme=blueberry)
+  ![](https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/main/profile-summary-card-output/blueberry/3-stats.svg)
   <img width="8">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasPiccioni&theme=blueberry)
+  ![](https://raw.githubusercontent.com/NicolasPiccioni/NicolasPiccioni/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasPiccioni&bg_color=242938&color=738cdf&line=222222&point=cc007b&area=true&hide_border=true" />
 
