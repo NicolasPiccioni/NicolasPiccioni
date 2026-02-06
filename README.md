@@ -19,7 +19,7 @@
                       alt="LinkedIn Badge"/></a>
   &nbsp; <!-- Space -->
   <a 
-    href="#" 
+    href="https://nicolaspiccioni.github.io/Portfolio--NicolasPiccioni/" 
     target="_blank"><img 
                       src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=educative&logoColor=white&logoSize=auto" 
                       alt="Portfolio Badge"/></a>
