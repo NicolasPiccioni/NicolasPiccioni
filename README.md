@@ -115,7 +115,7 @@
     </tr>
     <tr> <!-- Fronted -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,figma"/></td>
     </tr>
     <tr> <!-- DataBases -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de Datos:</td>
