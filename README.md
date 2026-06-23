@@ -141,7 +141,7 @@
     </tr>
     <tr> <!-- Ides -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,eclipse"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime"/></td>
     </tr>
     <tr> <!-- Other Tools -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras Herramientas:</td>
