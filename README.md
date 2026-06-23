@@ -115,11 +115,15 @@
     </tr>
     <tr> <!-- Fronted -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma,js"/></td>
     </tr>
     <tr> <!-- DataBases -->
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Bases de Datos:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite"/></td>
+    </tr>
+    <tr> <!-- DataBases -->
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=kotlin"/></td>
     </tr>
     <!--
     <tr>
