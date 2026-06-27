@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate arcade contribution graph
 
 on:
   schedule:
@@ -16,24 +16,17 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate pacman
+      - name: Generate contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: NicolasPiccioni
-          color_background: "transparent"
-          color_walls: "#c9caca"
+          games: pacman
+          player_style: opportunistic
 
-      - name: Debug
-        run: |
-          pwd
-          echo "----------------"
-          find . -maxdepth 3 -type d
-          echo "----------------"
-          find . -maxdepth 3 -type f
-
-      - name: Publish
+      - name: Push SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
