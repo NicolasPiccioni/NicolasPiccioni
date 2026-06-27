@@ -1,32 +1,39 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: NicolasPiccioni
           color_background: "transparent"
           color_walls: "#c9caca"
 
+      - name: Debug
+        run: |
+          pwd
+          echo "----------------"
+          find . -maxdepth 3 -type d
+          echo "----------------"
+          find . -maxdepth 3 -type f
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Publish
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
