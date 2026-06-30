@@ -82,12 +82,12 @@
         <sub>2023 – 2026</sub>
       </td>
       <td align="center" width="320">
-        <strong>Ingeniero en Informática</strong>
+        <strong>Lenguaje Ingles</strong>
         <br><br> <!-- Double Line Jump -->
-        <img src="Assets/Logo-UBA.jpg" width="120">
+        <img src="Assets/Logo-Ingles.jpg" width="120">
         <br> <!-- Line Jump -->
-        Universidad de Buenos Aires<br>
-        <sub>2026 - 2030</sub>
+        Instituto William Shakespeare<br>
+        <sub>2023 - 2028</sub>
       </td>
     </tr>
   </table>
